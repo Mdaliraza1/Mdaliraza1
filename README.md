@@ -151,7 +151,7 @@ Assignments, algorithms, and interview prep.
 
 ---
 
-# 🔥 ULTRA FIRE Contribution Snake Graph
+# 🔥 Contribution Snake Graph
 
 <p align="center">
   <picture>
