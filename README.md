@@ -66,9 +66,10 @@ Focused on clean architecture, automation, and production-ready APIs.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mdaliraza1&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdaliraza1&layout=compact&theme=transparent" height="160" />
+  <img src="https://github-readme-stats-mrdk2k.vercel.app/api?username=Mdaliraza1&show_icons=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats-mrdk2k.vercel.app/api/top-langs/?username=Mdaliraza1&layout=compact&theme=transparent" height="160" />
 </p>
+
 
 ---
 
