@@ -155,10 +155,11 @@ Assignments, algorithms, and interview prep.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mdaliraza1/Mdaliraza1/blob/output/snake-ultra-fire-dark.svg">
-    <img src="https://github.com/Mdaliraza1/Mdaliraza1/blob/output/snake-ultra-fire.svg" alt="Ultra Fire Snake Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mdaliraza1/Mdaliraza1/blob/main/output/snake-ultra-fire-dark.svg">
+    <img src="https://github.com/Mdaliraza1/Mdaliraza1/blob/main/output/snake-ultra-fire.svg" alt="Ultra Fire Snake Graph" />
   </picture>
 </p>
+
 
 ---
 
