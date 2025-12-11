@@ -1,6 +1,6 @@
 <!-- Profile Banner + Typing SVG + Visitor Counter -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Md%20Ali%20Raza-Backend%20Developer-000000?style=for-the-badge" alt="Md Ali Raza - Backend | ML DeveOPS" />
+   <img src="https://img.shields.io/badge/Md%20Ali%20Raza-Backend%20Developer-000000?style=for-the-badge" alt="Md Ali Raza - Backend Developer" />
 </p>
 
 <p align="center">
