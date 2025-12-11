@@ -1,0 +1,44 @@
+name: Generate Ultra Fire Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"       # Run daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate ULTRA FIRE Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Mdaliraza1
+          # ULTRA FIRE custom palette
+          palette: |
+            warm:
+              - "#ff0000"   # Neon Red
+              - "#ff5a00"   # Lava Orange
+              - "#ff9a00"   # Ember Orange
+              - "#ffd000"   # Fire Yellow
+              - "#fff200"   # Neon Yellow
+            cold:
+              - "#2b2b2b"   # Charcoal
+              - "#1a1a1a"   # Dark Lava
+              - "#000000"   # Pure Black
+          outputs: |
+            ./output/snake-ultra-fire.svg
+            ./output/snake-ultra-fire-dark.svg
+
+      - name: Commit ULTRA FIRE Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "🔥 ULTRA FIRE Snake Graph Updated"
+          add: "./output"
