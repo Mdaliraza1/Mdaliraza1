@@ -141,15 +141,25 @@ Assignments, algorithms, and interview prep.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://my-readme-beryl.vercel.app/api?username=Mdaliraza1&show_icons=true&theme=transparent" height="170" />
-  <img src="https://my-readme-beryl.vercel.app/api/top-langs/?username=Mdaliraza1&layout=compact&theme=transparent" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mdaliraza1&show_icons=true&theme=transparent"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdaliraza1&layout=compact&theme=transparent"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdaliraza1&theme=transparent" height="170" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mdaliraza1&theme=transparent"
+    height="170"
+  />
 </p>
 
 ---
+
 
 # 🔥 Contribution Snake Graph
 
