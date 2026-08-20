@@ -469,28 +469,28 @@ Real-Time Engineering
 
 <p align="center">
   <a href="https://github.com/Mdaliraza1/mothershut">
-    <img src="https://my-readme-beryl.vercel.app/api/pin/?username=Mdaliraza1&repo=mothershut&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mdaliraza1&repo=mothershut&theme=transparent" />
   </a>
   <a href="https://github.com/Mdaliraza1/IGBC">
-    <img src="https://my-readme-beryl.vercel.app/api/pin/?username=Mdaliraza1&repo=IGBC&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mdaliraza1&repo=IGBC&theme=transparent" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Mdaliraza1/fixly_webskitters">
-    <img src="https://my-readme-beryl.vercel.app/api/pin/?username=Mdaliraza1&repo=fixly_webskitters&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mdaliraza1&repo=fixly_webskitters&theme=transparent" />
   </a>
   <a href="https://github.com/Mdaliraza1/healthcare">
-    <img src="https://my-readme-beryl.vercel.app/api/pin/?username=Mdaliraza1&repo=healthcare&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mdaliraza1&repo=healthcare&theme=transparent" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Mdaliraza1/ML_Django-full-stack">
-    <img src="https://my-readme-beryl.vercel.app/api/pin/?username=Mdaliraza1&repo=ML_Django-full-stack&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mdaliraza1&repo=ML_Django-full-stack&theme=transparent" />
   </a>
   <a href="https://github.com/Mdaliraza1/House-Price-Prediction-Using-RF">
-    <img src="https://my-readme-beryl.vercel.app/api/pin/?username=Mdaliraza1&repo=House-Price-Prediction-Using-RF&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mdaliraza1&repo=House-Price-Prediction-Using-RF&theme=transparent" />
   </a>
 </p>
 
